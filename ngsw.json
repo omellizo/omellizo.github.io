@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1586975035567,
+  "timestamp": 1587222424001,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,14 +8,14 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/5.41aea4e8f3e51d5e3e61.js",
+        "/5.3c247db2ed7cdc69f3fb.js",
         "/favicon.ico",
         "/index.html",
-        "/main.62db0ca93db0dcdcbea2.js",
+        "/main.7b8f438a94b4345f82c7.js",
         "/manifest.webmanifest",
         "/polyfills-es5.fb56279668b71d6aa396.js",
         "/polyfills.e9583174c2af8acc61ff.js",
-        "/runtime.e2eee987c49cd830b2f8.js",
+        "/runtime.f48888035ab16ecb79de.js",
         "/scripts.23c891176a6fdb868027.js",
         "/styles.8adecfbdb8a33bf9cb4e.css"
       ],
@@ -135,7 +135,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5.41aea4e8f3e51d5e3e61.js": "ef54a832b3423d570f5c622dc88861f74d744064",
+    "/5.3c247db2ed7cdc69f3fb.js": "9f52dc461f61f01a0802399cb013e48d0c8d7d5b",
     "/assets/css/demo.css": "00b1a656213daf82ec0a7999cf177818b2192191",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -240,12 +240,12 @@
     "/assets/scss/core/variables/_type.scss": "d382ab8705546b30d3768ed3ebcfb11ebe0736a7",
     "/assets/scss/material-dashboard.scss": "46132f3b579d5ae2b457990e9df0a3abd9c0b5e7",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "bcf1c5c436bd6784347407d943f1a31bb12c0d53",
-    "/main.62db0ca93db0dcdcbea2.js": "996dbe84495254d0cda1e9c76ed09097be10ec8b",
+    "/index.html": "6e2968efed8a6b7c2e7753468380c753a514e3e8",
+    "/main.7b8f438a94b4345f82c7.js": "d2f379984feb5f207a2ffdaa89e47fd6c0e8d0d2",
     "/manifest.webmanifest": "1c3823b5ba5807b3baaa937b9f08f4be592c7cc4",
     "/polyfills-es5.fb56279668b71d6aa396.js": "c88e7ab97b50d528475f0347a65d2ab945e0d605",
     "/polyfills.e9583174c2af8acc61ff.js": "7ce3ffeb54bb86fa114cd6020acd2924ef66c3c3",
-    "/runtime.e2eee987c49cd830b2f8.js": "e6e34511f30681d9e7052435671f2b2f1bf15feb",
+    "/runtime.f48888035ab16ecb79de.js": "8b2bc200b24018833c705a33c10923d96d282a52",
     "/scripts.23c891176a6fdb868027.js": "ea029c410f4de5d69fde158cada33e977ee8ba0c",
     "/styles.8adecfbdb8a33bf9cb4e.css": "3cdc448f3e07ae009fcfd31f333eb24006071c10"
   },
