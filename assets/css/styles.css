@@ -33,3 +33,48 @@
   position: absolute;
   width: 260px;
 }
+
+body {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: white;
+}
+
+.doctor-status-online {
+  color: #009900;
+  font-size: 22px;
+}
+
+.doctor-status-busy {
+  color: #FF2D00;
+  font-size: 22px;
+}
+
+.doctor-status-absent {
+  color: #FFD800;
+  font-size: 22px;
+}
+
+.doctor-status-offline {
+  color: #A7A7A7;
+  font-size: 22px;
+}
+
+.clinic-title {
+  font-weight: bold;
+}
+
+.clinic-subtitle {
+  font-weight: bold; color: #03a9f4; padding-left: 2%; width: 100%;
+}
+
+.clinic.detail {
+  text-align: justify; padding-left: 2%; padding-right: 2%;
+}
+
+.clinic.item {
+  padding-top: 0%;
+}

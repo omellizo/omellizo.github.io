@@ -370,6 +370,9 @@
     &.tag-danger{
         @include tag-color($brand-danger);
     }
+    &.tag-clinic{
+      @include tag-color($brand-clinic);
+  }
     &.tag-rose{
       @include tag-color($brand-rose);
     }

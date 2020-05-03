@@ -124,6 +124,9 @@
   &.btn-danger {
     @include bmd-flat-button-variant($btn-danger-bg);
   }
+  &.btn-clinic {
+    @include bmd-flat-button-variant($btn-clinic-bg);
+  }
 }
 
 @mixin bmd-outline-button-color() {
@@ -230,6 +233,9 @@
   }
   &.btn-rose {
     @include bmd-raised-button-variant($btn-rose-color, $btn-rose-bg, $btn-rose-border-color);
+  }
+  &.btn-clinic {
+    @include bmd-raised-button-variant($btn-clinic-color, $btn-clinic-bg, $btn-clinic-border-color);
   }
   &,
   &.btn-default{

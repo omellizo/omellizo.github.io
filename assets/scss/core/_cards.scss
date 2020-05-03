@@ -202,6 +202,15 @@
       background: linear-gradient(60deg, $red-400, $red-600);
     }
 
+    .card-header-clinic .card-icon,
+    .card-header-clinic .card-text,
+    .card-header-clinic:not(.card-header-icon):not(.card-header-text),
+    &.bg-clinic,
+    &.card-rotate.bg-clinic .front,
+    &.card-rotate.bg-clinic .back{
+      background: linear-gradient(60deg, $blue-400, $blue-600);
+    }
+
     .card-header-rose .card-icon,
     .card-header-rose .card-text,
     .card-header-rose:not(.card-header-icon):not(.card-header-text),
@@ -223,6 +232,12 @@
     .card-header-danger:not(.card-header-icon):not(.card-header-text),
     .card-header-danger .card-text{
         @include shadow-big-color($brand-danger);
+    }
+
+    .card-header-clinic .card-icon,
+    .card-header-clinic:not(.card-header-icon):not(.card-header-text),
+    .card-header-clinic .card-text{
+        @include shadow-big-color($brand-clinic);
     }
 
     .card-header-rose .card-icon,
